@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Ticket</string>
+    <string name="todo">TODO</string>
+    <string name="route">Route</string>
+    <string name="passenger_name">Passenger Name</string>
+    <string name="enter_passenger_name">Enter Passenger Name…</string>
+    <string name="place_amp_destination"><![CDATA[Place & Destination]]></string>
+    <string name="total_amount">Total Amount</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="passenger_amount">Passenger Amount…</string>
+    <string name="balance_amount">Balance Amount</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="passenger_amount_">Passenger Amount</string>
+    <string name="conductor_name">Conductor Name</string>
+    <string name="enter_conductor_name">Enter Conductor Name…</string>
+    <string name="submit">Submit</string>
+    <string name="passenger_number">Passenger Number</string>
+    <string name="enter_passenger_no">Enter Passenger No…</string>
+    <string name="ticket_number">Ticket Number</string>
+    <string name="enter_ticket_no">Enter Ticket No…</string>
+
+    <string name="PREFERENCES_PERMISSION">PREFERENCE_PERMISSION</string>
+    <string name="PERMISSION_SMS">PERMISSION_SMS</string>
+    <string name="PERMISSION_INTERNET">PERMISSION_INTERNET</string>
+    <string name="conductor">Conductor</string>
+    <string name="passenger">Passenger</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password…</string>
+    <string name="enter_username">Enter Username…</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="enter_contact_number">Enter Contact Number…</string>
+    <string name="time">Time</string>
+    <string name="sex">Sex</string>
+    <string name="address">Address</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="pre_booking">Pre-Booking</string>
+    <string name="booking_details">booking Details</string>
+    <string name="exit">Exit</string>
+    <string name="date">Date</string>
+    <string name="message">Message</string>
+    <string name="number">Number</string>
+</resources>
